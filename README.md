@@ -20,5 +20,7 @@ Posts_Per_Day: Number of posts made per day.
 Likes_Received_Per_Day: Number of likes received per day.
 
 Comments_Received_Per_Day: Number of comments received per day.
+
 Messages_Sent_Per_Day: Number of messages sent per day.
+
 Dominant_Emotion: Dominant emotion exhibited by the user.
